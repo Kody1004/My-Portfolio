@@ -1,2 +1,2 @@
 # My-Portfolio
-Hi My name is Kody Ng. I really enjoy playing sports, gaming, and learning about technology. My dream is to either become a robot/a.i. designer or become an engineer for a big company, maybe something like NASA. 
+Hi! My name is Kody Ng. I really enjoy playing sports, gaming, and learning about technology. My dream is to either become a robot/a.i. designer or become an engineer for a big company, maybe something like NASA. 
