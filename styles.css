@@ -1,1 +1,104 @@
+.info {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-position: center;
+    background-color:darkslateblue;
+}
+.mainPage {
+    padding: 10px;
+    background: linear-gradient(90deg, rgba(0,36,23,1) 0%, rgba(9,107,121,1) 47%, rgba(0,172,255,1) 100%);
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    color: aquamarine;
+    font-family: Stencil Std, fantasy;
+}
+h3 {
+    color: black;
+}
+h2 {
+    color: red;
+}
+body {  
+height: 125vh;  
+margin-top: 80px;  
+padding: 30px;  
+background-size: cover;  
+font-family: sans-serif;  
+}  
+header {    
+position: fixed;  
+left: 0;  
+right: 0;  
+top: 5px;  
+height: 30px;  
+display: flex;  
+align-items: center;  
+box-shadow: 0 0 25px 0 black;  
+}  
+header * {  
+display: inline;  
+}  
+header li a {  
+margin: 20px;
+color:rgb(0, 140, 255);  
+}  
+header li b {  
+color: blue;  
+text-decoration: none;  
+}  
+.projectpage {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    
+}
+.main {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+}
+.card {
+    float: left;
+}
+.bus {
+    text-align: center;
+}
+.title {
+    font-size: 50px;
+    color:blue;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 
+.card-body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.Pacmen {
+    float: left;
+    padding: 10px;
+    margin: 50px;
+    background-color: gainsboro;
+
+}
+.bus {
+    float: left;
+    padding: 10px;
+    margin: 50px;
+    background-color: gainsboro;
+
+}
+.eye {
+    float: left;
+    padding: 10px;
+    margin: 50px;
+    background-color: gainsboro;
+
+}
+.page {
+    background-color:dimgrey;
+}
+.contactInfo {
+    text-align: center;
+    background-color:gainsboro;
+    margin: 5px;
+}
