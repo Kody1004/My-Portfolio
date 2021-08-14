@@ -18,8 +18,7 @@ padding: 30px;
 background-size: cover;  
 font-family: sans-serif;  
 }  
-header {    
-position: fixed;  
+header {  
 left: 0;  
 right: 0;  
 top: 5px;  
@@ -47,50 +46,23 @@ text-decoration: none;
     font-family: Georgia, 'Times New Roman', Times, serif;
     border: none;
 }
-.card {
-    float: left;
-}
-.bus {
-    text-align: center;
-}
 .title {
     font-size: 50px;
     text-align: center;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: red;
 }
-
-.card-body {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-}
-.Pacmen {
-    float: left;
-    padding: 10px;
-    margin: 50px;
-    background-color: gainsboro;
-
-}
-.bus {
-    float: left;
-    padding: 10px;
-    margin: 50px;
-    background-color: gainsboro;
-
-}
-.eye {
-    float: left;
-    padding: 10px;
-    margin: 50px;
-    background-color: gainsboro;
-
+.card {
+    display: grid;
+    grid-template-columns: auto auto auto;
 }
 .page {
     background-color:dimgrey;
 }
 .contactInfo {
     text-align: center;
-    background-color:gainsboro;
     margin: 5px;
+    float: center;
 }
 .ytvid {
     text-align: center;
