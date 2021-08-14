@@ -9,6 +9,7 @@
     background: linear-gradient(90deg, rgba(0,36,23,1) 0%, rgba(9,107,121,1) 47%, rgba(0,172,255,1) 100%);
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    border: aquamarine;
 }
 h1 {
     color: aquamarine;
@@ -34,8 +35,7 @@ right: 0;
 top: 5px;  
 height: 30px;  
 display: flex;  
-align-items: center;  
-box-shadow: 0 0 25px 0 black;  
+align-items: center;    
 }  
 header * {  
 display: inline;  
@@ -65,9 +65,9 @@ text-decoration: none;
 }
 .title {
     font-size: 50px;
-    color:blue;
     text-align: center;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: red;
 }
 
 .card-body {
