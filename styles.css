@@ -11,16 +11,6 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
     border: aquamarine;
 }
-h1 {
-    color: aquamarine;
-    font-family: Stencil Std, fantasy;
-}
-h3 {
-    color: black;
-}
-h2 {
-    color: red;
-}
 body {  
 height: 125vh;  
 margin-top: 80px;  
@@ -101,4 +91,7 @@ text-decoration: none;
     text-align: center;
     background-color:gainsboro;
     margin: 5px;
+}
+.ytvid {
+    text-align: center;
 }
